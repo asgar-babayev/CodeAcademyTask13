@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cSjFSZnlD1etbYXNpnG/U8iFgPxIewgdyruz0dg+n4JOSFKCYa0ullxAh3B9d1KY1WBXKN4Vn1dajIvClJOIig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asger\\Desktop\\Tasks\\PrintPdfWordExcel\\ConsoleApp1\\PrintPdfWordExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
